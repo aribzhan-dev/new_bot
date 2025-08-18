@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# macOS system files
+.DS_Store
+
+# Pipenv files
+Pipfile
+Pipfile.lock
+
+test.py
